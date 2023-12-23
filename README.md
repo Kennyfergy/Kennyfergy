@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Kenny Ferguson</h1>
-<h3 align="center"># About Me
+<h3 align="center"> About Me
 
 Hello there! I'm a former generator technician who has enthusiastically pivoted to the realm of software engineering. My journey from the hands-on world of machinery to the intricate art of coding has been nothing short of exhilarating.
 
