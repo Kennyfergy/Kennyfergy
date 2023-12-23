@@ -63,4 +63,9 @@ Let's connect and collaborate on the next big thing!
 <a href="https://axios-http.com"><img src="https://avatars.githubusercontent.com/u/32372333?s=200&v=4" height="40px" width="40px" /></a>
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
 <a href="https://www.djangoproject.com/"><img src="https://avatars.githubusercontent.com/u/27804?s=48&v=4" height="40px" width="40px" /></a>
+<a href="https://www.python.org/"><img src="https://avatars.githubusercontent.com/u/1525981?s=200&v=4" height="40px" width="40px" /></a>
+<a href="https://sass-lang.com"><img src="https://avatars.githubusercontent.com/u/317889?s=200&v=4" height="40px" width="40px" /></a>
+<a href="https://vitejs.dev"><img src="https://avatars.githubusercontent.com/u/65625612?s=200&v=4" height="40px" width="40px" /></a>
+<a href="https://eslint.org"><img src="https://avatars.githubusercontent.com/u/6019716?s=200&v=4" height="40px" width="40px" /></a>
+
 </p>
