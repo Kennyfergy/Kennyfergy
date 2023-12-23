@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Kennyfergy/Kennyfergy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,9 +15,9 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Kenny Ferguson</h1>
 <h3 align="center"> About Me
 
-Hello there! I'm a former generator technician who has enthusiastically pivoted to the realm of software engineering. My journey from the hands-on world of machinery to the intricate art of coding has been nothing short of exhilarating.
+I'm a former generator technician who has enthusiastically pivoted to the realm of software engineering. My journey from the hands-on world of machinery to the intricate art of coding has been nothing short of exhilarating.
 
-With a growing passion for full-stack development, I find myself particularly drawn to the complexities and challenges of backend engineering. I thrive in environments where I can deconstruct problems and engineer robust, scalable solutions.
+With a growing passion for full-stack development, I find myself particularly drawn to the complexities and challenges of backend engineering. I thrive in environments where I can deconstruct problems and find solutions.
 
 What excites me most about technology is its endless potential for innovation. I'm always on the lookout for new projects where I can apply my skills, learn new ones, and create impactful solutions. Whether it's refining the backbone of an application or exploring the latest in tech trends, I'm committed to growing as a developer and contributing to this dynamic field.
 
@@ -27,7 +25,7 @@ Let's connect and collaborate on the next big thing!
 
 </h3>
 
-- 🌱 I’m currently learning **Django and .NET/C#**
+- 🌱 I’m currently learning **Django, .NET/C#, Arduino, Embedded Software**
 
 - 👨‍💻 Here is my online portfolio: [https://kennyfergy.github.io/Portfolio/](https://kennyfergy.github.io/Portfolio/)
 
