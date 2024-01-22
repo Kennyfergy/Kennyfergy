@@ -25,7 +25,7 @@ Let's connect and collaborate on the next big thing!
 
 </h3>
 
-- 🌱 I’m currently learning **Django, .NET/C#, Arduino, Embedded Software**
+- 🌱 I’m currently learning **Django, Arduino, C++, Embedded Software**
 
 - 👨‍💻 Here is my online portfolio: [https://kennyfergy.github.io/Portfolio/](https://kennyfergy.github.io/Portfolio/)
 
