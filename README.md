@@ -25,7 +25,7 @@ Let's connect and collaborate on the next big thing!
 
 </h3>
 
-- 🌱 I’m currently learning **Django, Rust, **
+- 🌱 I’m currently learning **Django, probably Rust next **
 
 - 👨‍💻 Here is my online portfolio: [https://kennyfergy.github.io/Portfolio/](https://kennyfergy.github.io/Portfolio/)
 
